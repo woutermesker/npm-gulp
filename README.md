@@ -1,3 +1,3 @@
 # npm-test
 
-test 0.07
+test 0.08
