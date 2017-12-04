@@ -1,0 +1,33 @@
+{
+  "devDependencies": {
+	"del":"latest",
+    "gulp": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest",
+	"gulp-inject-string":"latest",
+	"gulp-rename":"latest",
+    "gulp-sass": "latest",
+    "gulp-util": "latest",
+	"gulp-foreach":"latest",
+	"gulp-git":"latest",
+	"gulp-less":"latest",
+	"gulp-plumber":"latest",
+	"gulp-clean":"latest",
+	"gulp-zip":"latest",
+	"gulp-task-listing":"latest",
+	"gulp-decompress": "latest",
+	"gulp-unzip": "latest",
+	"gulp-gzip": "latest",
+	"gulp-wait": "latest",
+	"gulp-logger": "latest",
+	"gulp-sourcemaps": "latest",
+	"gulp-ng-annotate": "latest",
+	"gulp-wrap": "latest",
+	"gulp-uglify": "latest",
+	"gulp-insert": "latest",
+	"gulp-angular-templatecache":"latest",
+	"simple-git" : "latest",
+	"yargs" : "latest"
+	
+  }
+}
